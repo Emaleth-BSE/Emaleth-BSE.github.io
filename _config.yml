@@ -1,2 +1,35 @@
-ignore_theme_config: TRUE
-theme: jekyll-theme-midnight
+title: Emaleth's Playground
+
+author:
+  name: GitHub User
+  email:
+  
+description: > # this means to ignore newlines until "show_excerpts:"
+  Bad code ahead
+  
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: EmalethDev
+    github:  Emaleth-BSE
+    youtube: Emaleth
+    youtube_channel: UCMWrvCUwZyBYuLbhGB6P-Cg
+    youtube_channel_name: Emaleth
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
