@@ -21,3 +21,8 @@ plugins:
  - jekyll-seo-tag
  
 google_analytics: G-ZGB569H81C
+
+readme_index:
+  enabled:          false
+  remove_originals: false
+  with_frontmatter: false
