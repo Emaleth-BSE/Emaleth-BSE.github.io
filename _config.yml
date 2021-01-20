@@ -1,28 +1,20 @@
 title: Emaleth's Playground
 author:	Emaleth
-description: Bad code by nature
+description: // bad code by design //
 
-# generate social links in footer
 twitter_username: EmalethDev
 github_username:  Emaleth-BSE
-youtube_username: UCMWrvCUwZyBYuLbhGB6P-Cg
 
 show_excerpts: true
 
 minima:
   date_format: "%d-%m-%Y"
-#  skin: dark
 
-header_pages:
- - index.md
- - about.md
+#header_pages:
+# - about.md
 
-# Build settings
 theme: minima
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- 
-exclude:
- - README.md
