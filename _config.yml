@@ -2,11 +2,10 @@ title: Emaleth's Playground
 author:	Emaleth
 description: Bad code by nature
 
-  # generate social links in footer
-  social_links:
-    twitter_username: EmalethDev
-    github_username:  Emaleth-BSE
-    youtube_username: channel/UCMWrvCUwZyBYuLbhGB6P-Cg
+# generate social links in footer
+twitter_username: EmalethDev
+github_username:  Emaleth-BSE
+youtube_username: channel/UCMWrvCUwZyBYuLbhGB6P-Cg
 
 show_excerpts: true
 
