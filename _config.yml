@@ -1,31 +1,21 @@
 title: Emaleth's Playground
-
-author:
-  name: Emaleth
-  email:
-  
-description: > # this means to ignore newlines until "show_excerpts:"
-  Bad code ahead
-  
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-  skin: dark
+author:	Emaleth
+description: Bad code by nature
 
   # generate social links in footer
   social_links:
-    twitter: EmalethDev
-    github:  Emaleth-BSE
-    youtube: Emaleth
-    youtube_channel: UCMWrvCUwZyBYuLbhGB6P-Cg
-    youtube_channel_name: Emaleth
+    twitter_username: EmalethDev
+    github_username:  Emaleth-BSE
+    youtube_username: channel/UCMWrvCUwZyBYuLbhGB6P-Cg
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
+show_excerpts: true
+
+minima:
+  date_format: "%d-%m-%Y"
+#  skin: dark
+
 header_pages:
+ - index.md
  - about.md
 
 # Build settings
