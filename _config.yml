@@ -1,14 +1,23 @@
 title: Emaleth's Playground
-author:	Emaleth
-description: // bad code by design //
 
-twitter_username: EmalethDev
-github_username:  Emaleth-BSE
+author:
+  name:	Emaleth
+
+description: // bad code by design //
 
 show_excerpts: true
 
+remote_theme: jekyll/minima
+
 minima:
   date_format: "%d-%m-%Y"
+  social_links:
+    twitter: EmalethDev
+    github:  Emaleth-BSE
+    youtube: Emaleth
+    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel_name: Emaleth
+  skin: dark
 
 header_pages:
  - index.md
@@ -16,10 +25,9 @@ header_pages:
  - about.md
  - contact.md
 
-theme: minima
-
 google_analytics: G-ZGB569H81C
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
