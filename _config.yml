@@ -9,7 +9,6 @@ show_excerpts: true
 
 minima:
   date_format: "%d-%m-%Y"
-  google_analytics: G-ZGB569H81C
 
 header_pages:
  - index.md
@@ -18,6 +17,8 @@ header_pages:
  - contact.md
 
 theme: minima
+
+google_analytics: G-ZGB569H81C
 
 plugins:
  - jekyll-feed
