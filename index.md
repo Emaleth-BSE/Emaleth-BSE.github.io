@@ -1,5 +1,4 @@
 ---
-layout: page
+layout: home
 title: Home
 ---
-ToDo: add pages

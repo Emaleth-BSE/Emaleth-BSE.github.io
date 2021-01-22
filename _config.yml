@@ -14,14 +14,12 @@ minima:
   social_links:
     twitter: EmalethDev
     github:  Emaleth-BSE
-#    youtube: Emaleth
     youtube_channel: UCMWrvCUwZyBYuLbhGB6P-Cg
     youtube_channel_name: Emaleth
   skin: dark
 
 header_pages:
  - index.md
- - blog.md
  - about.md
  - contact.md
 
