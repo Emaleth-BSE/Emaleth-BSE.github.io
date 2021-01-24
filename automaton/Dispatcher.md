@@ -1,7 +1,7 @@
 ---
-
-page
-Godot Scene Dispatcher
+permalink: 
+layout: page
+title: Godot Scene Dispatcher
 ---
 # Dispatcher
 Godot Scene Dispatcher
