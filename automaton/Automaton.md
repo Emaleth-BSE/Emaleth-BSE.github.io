@@ -1,5 +1,7 @@
 ---
-page/automaton/---
+layout: page
+permalink: /automaton/
+---
 # Automaton
 #### THIS IS A MODIFIED, WORK IN PROGRESS, ACTION BASED ON: 
 #### https://github.com/dmnemec/copy_file_to_another_repo_action by https://github.com/dmnemec
