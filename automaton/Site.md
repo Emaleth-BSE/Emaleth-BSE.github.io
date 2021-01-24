@@ -1,4 +1,5 @@
 ---
+title: This Website
 layout: page
 permalink: /site/
 ---
