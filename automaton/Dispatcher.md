@@ -1,7 +1,7 @@
 ---
-permalink: 
 layout: page
-title: Godot Scene Dispatcher
+title: 
+permalink: /dispatcher/
 ---
 # Dispatcher
 Godot Scene Dispatcher
