@@ -2,7 +2,6 @@
 layout: page
 permalink: /site/
 ---
-# RESOURCES
 ### https://jekyllrb.com/
 
 ##### THEMES:
