@@ -83,7 +83,7 @@ jobs:
     - name: Push a file to another repository
       uses: Emaleth-BSE/Automaton@master
       env:
-        API_TOKEN_GITHUB: ${{ secrets.AUTOMATON_TOKEN }}
+        API_TOKEN_GITHUB: '${{ secrets.AUTOMATON_TOKEN }}'
       with:
         target_repo: 'GithubUsername/My_Awesome_Page.github.io'
         user_email: 'my@email.me'
