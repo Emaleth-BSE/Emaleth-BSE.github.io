@@ -21,6 +21,7 @@ permalink: /automaton/
 #####  user_name:
     description: 'GitHub username for the commit'
     required: true
+    
 #####  user_email:
     description: 'Email for the git commit'
     required: true
@@ -29,14 +30,17 @@ permalink: /automaton/
 #####  target_repo:
     description: 'Destination repository'
     required: true
+    
 #####  target_folder:
     description: 'Directory to push the file to'
     required: false
     default: 'automaton'
+    
 #####  target_branch:
     description: 'Branch to push file to'
     required: false
     default: 'main'
+    
 #####  target_file_name:
     description: 'Name of the destination file'
     required: false
@@ -46,10 +50,12 @@ permalink: /automaton/
     description: 'Front matter permalink'
     required: false
     default: ''
+    
 #####  front_matter_layout:
     description: 'Front matter layout'
     required: false
     default: 'page'
+    
 #####  front_matter_title:
     description: 'Front matter title'
     required: false
