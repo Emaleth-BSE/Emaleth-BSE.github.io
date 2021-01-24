@@ -1,9 +1,8 @@
 ---
+title: Beleth
 layout: page
-title: 
 permalink: /beleth/
 ---
-# [Beleth](https://en.wikipedia.org/wiki/Beleth)
 // creenshots here //
 
 ##### Sources:
