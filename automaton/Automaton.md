@@ -1,5 +1,4 @@
 ---
-title: TestTitle
 layout: page
 permalink: /automaton/
 ---
