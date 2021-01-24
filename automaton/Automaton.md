@@ -1,4 +1,5 @@
 ---
+title: null
 layout: page
 permalink: /automaton/
 ---
