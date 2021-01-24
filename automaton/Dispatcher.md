@@ -1,9 +1,8 @@
 ---
+title: Dispatcher
 layout: page
-title: null
 permalink: /dispatcher/
 ---
-# Dispatcher
 
 Dispatcher is a godot singleton script which transforms a scene path or a scene name from pool into an object inside the tree, ready to be parented.
 
