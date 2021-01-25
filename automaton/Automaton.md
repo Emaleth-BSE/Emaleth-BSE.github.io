@@ -80,7 +80,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Push a file to another repository
-      uses: Emaleth-BSE/Automaton@master
+      uses: Emaleth/Automaton@master
       env:
         API_TOKEN_GITHUB: '${{ secrets.AUTOMATON_TOKEN }}'
       with:
