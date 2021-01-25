@@ -1,6 +1,7 @@
 ---
 title: Emaleth.dev
 layout: page
+collection: gh-repos
 permalink: /site/
 ---
 
