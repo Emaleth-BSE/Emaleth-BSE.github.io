@@ -7,7 +7,7 @@ permalink: /dispatcher/
 
 Dispatcher is a godot singleton script which transforms a scene path or a scene name from pool into an object inside the tree, ready to be parented.
 
-
+<!--more-->
 ## Installation
 
 1. Clone this repository and copy Dispatcher.gd into you project folder
