@@ -18,4 +18,5 @@ jobs:
         target_file_name: 'Site'
         permalink: /site/
         title: 'Emaleth.dev'
+        collection: 'gh-repos'
 
