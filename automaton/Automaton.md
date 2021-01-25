@@ -10,20 +10,22 @@ permalink: /automaton/
 
 
 ### Features
-## - Copy README.md from repository A into repository B, directory C
-## - Rename copied README.md to any arbitrary name (will always be a markdown file) (default = repository name)
-## - Respect already present filed named README.md (reneaming happens before copying)
+##### - Copy README.md from repository A into repository B, directory C
+##### - Rename copied README.md to any arbitrary name (will always be a markdown file) (default = repository name)
+##### - Respect already present filed named README.md (reneaming happens before copying)
 
 
 ### Variables
-#### USER DATA FOR AUTHENTICATION
+#### USER DATA FOR COMMIT MSG
 #####  user_name:
     description: 'GitHub username for the commit'
     required: true
+    default: 'Automaton'
     
 #####  user_email:
     description: 'Email for the git commit'
     required: true
+    default: '<>'
     
 #### TARGET INFO
 #####  target_repo:
