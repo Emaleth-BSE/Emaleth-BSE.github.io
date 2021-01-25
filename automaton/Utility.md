@@ -1,6 +1,7 @@
 ---
 title: Utility
 layout: page
+collection: gh-repos
 permalink: /utility/
 ---
 
