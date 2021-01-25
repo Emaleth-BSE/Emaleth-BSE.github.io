@@ -20,7 +20,7 @@ minima:
 
 header_pages:
  - index.md
- - repos.md
+ - repositories.md
  - about.md
  - contact.md
 
