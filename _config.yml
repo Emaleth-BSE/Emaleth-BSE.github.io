@@ -24,6 +24,8 @@ header_pages:
  - about.md
  - contact.md
 
+page_excerpts: true
+
 google_analytics: G-ZGB569H81C
 
 plugins:
