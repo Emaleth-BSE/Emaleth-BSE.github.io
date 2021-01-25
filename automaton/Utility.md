@@ -6,7 +6,7 @@ permalink: /utility/
 ---
 
 Utility is a godot engine singleton providing helper methods, aimed at 3d projects.
-
+<!--more-->
 ## Installation
 
 1. Clone this repository and copy Utility.gd into you project folder
