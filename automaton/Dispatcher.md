@@ -1,6 +1,7 @@
 ---
 title: Dispatcher
 layout: page
+collection: gh-repos
 permalink: /dispatcher/
 ---
 
