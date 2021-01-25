@@ -6,7 +6,7 @@ permalink: /beleth/
 ---
 
 Experimental godot first person shooter.
-
+<!--more-->
 ## Installation
 
 n/a.
