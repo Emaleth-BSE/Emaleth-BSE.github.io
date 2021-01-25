@@ -3,13 +3,18 @@ layout: page
 title: Repositories
 permalink: repositories
 ---
-<main>
-  {% for page in site.pages %}
-    {% if page.collection == "gh-repos" %}
-      <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-      {% if page.content contains '<!--more-->' %}
+{% for page in site.pages %}
+  {% if page.collection == "gh-repos" %}
+    <a href="{{ page.url }}">
+      <h2>
+        {{ page.title }}
+      </h2>
+    </a>
+    {% if page.content contains '<!--more-->' %}
+      <p>
         {{ page.content | split:'<!--more-->' | first }}
-      {% endif %}
+      </p>
     {% endif %}
-  {% endfor %}
-</main>
+  {% endif %}
+{% endfor %}
+
