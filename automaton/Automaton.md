@@ -9,7 +9,7 @@ permalink: /automaton/
 
 ### This action is designed to be used with github pages and jekyll
 
-
+<!--more-->
 ### Features
 ##### - Copy README.md from repository A into repository B, directory C
 ##### - Rename copied README.md to any arbitrary name (will always be a markdown file) (default = repository name)

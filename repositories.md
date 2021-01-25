@@ -7,7 +7,9 @@ permalink: repositories
     {% for page in site.pages %}
       {% if page.collection == "gh-repos" %}
         <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-        <p>{{ page.excerpt }}</p>        
+        {% if page.content contains '<!--more-->' %}
+          {{ page.content | split:'<!--more-->' | first }}        
       {% endif %}
     {% endfor %}
 </ul>
+
