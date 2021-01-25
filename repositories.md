@@ -8,7 +8,8 @@ permalink: repositories
       {% if page.collection == "gh-repos" %}
         <li><a href="{{ page.url }}">{{ page.title }}</a></li>
         {% if page.content contains '<!--more-->' %}
-          {{ page.content | split:'<!--more-->' | first }}        
+          {{ page.content | split:'<!--more-->' | first }}
+        {% endif %}        
       {% endif %}
     {% endfor %}
 </ul>
