@@ -22,6 +22,10 @@ header_pages:
  - index.md
  - about.md
  - contact.md
+ 
+collections:
+  automaton:
+    output: true
 
 google_analytics: G-ZGB569H81C
 
