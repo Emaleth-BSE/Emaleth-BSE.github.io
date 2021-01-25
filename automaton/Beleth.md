@@ -1,6 +1,7 @@
 ---
 title: Beleth
 layout: page
+collection: gh-repos
 permalink: /beleth/
 ---
 
