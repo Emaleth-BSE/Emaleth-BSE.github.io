@@ -25,6 +25,7 @@ header_pages:
  - contact.md
 
 page_excerpts: true
+excerpt_separator: "<!--more-->"
 
 google_analytics: G-ZGB569H81C
 
