@@ -4,12 +4,12 @@ layout: page
 collection: gh-repos
 permalink: /automaton/
 ---
-#### THIS IS A MODIFIED, WORK IN PROGRESS, ACTION BASED ON: 
-#### https://github.com/dmnemec/copy_file_to_another_repo_action by https://github.com/dmnemec
+##### THIS IS A MODIFIED, WORK IN PROGRESS, ACTION BASED ON: 
+##### https://github.com/dmnemec/copy_file_to_another_repo_action by https://github.com/dmnemec
 
-### This action is designed to be used with github pages and jekyll
-
+##### This action is designed to be used with github pages and jekyll
 <!--more-->
+
 ### Features
 ##### - Copy README.md from repository A into repository B, directory C
 ##### - Rename copied README.md to any arbitrary name (will always be a markdown file) (default = repository name)
