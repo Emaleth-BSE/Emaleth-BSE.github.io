@@ -1,6 +1,7 @@
 ---
 title: Automaton
 layout: page
+collection: gh-repos
 permalink: /automaton/
 ---
 #### THIS IS A MODIFIED, WORK IN PROGRESS, ACTION BASED ON: 
