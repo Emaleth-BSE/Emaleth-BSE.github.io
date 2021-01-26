@@ -14,8 +14,8 @@ layout: page
           <p>
             {{ page.content | split:'<!--more-->' | first }}
           </p>
-        </p>
-      {% endif %}
+        {% endif %}
+      </p>
     {% endif %}
   {% endfor %}
 </article>
