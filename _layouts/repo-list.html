@@ -4,7 +4,7 @@ layout: page
 <article class="repo-list">
   {% for page in site.pages %}
     {% if page.collection == "gh-repos" %}
-      <p style="background-color:#666666;padding:20px;border: 2px solid #999999;">
+      <div style="background-color:#666666;padding:20px;border:2px outset #999999;margin:5px">
         <a href="{{ page.url }}">
           <h2>
             {{ page.title }}
@@ -15,7 +15,7 @@ layout: page
             {{ page.content | split:'<!--more-->' | first }}
           </p>
         {% endif %}
-      </p>
+      </div>
     {% endif %}
   {% endfor %}
 </article>
