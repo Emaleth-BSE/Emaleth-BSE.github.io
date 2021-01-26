@@ -4,14 +4,14 @@ layout: page
 <article class="repo-list">
   {% for page in site.pages %}
     {% if page.collection == "gh-repos" %}
-      <div style="background-color:#181818;padding:20px;border:5px outset #999999;">
+      <div style="background-color:#181818;padding:20px;border:5px outset #999999;margin:10px">
         <a href="{{ page.url }}">
-          <h2>
+          <h2 style="text-align:center;padding:0px">
             {{ page.title }}
           </h2>
         </a>
         {% if page.content contains '<!--more-->' %}
-          <p>
+          <p style="text-align:center">
             {{ page.content | split:'<!--more-->' | first }}
           </p>
         {% endif %}
