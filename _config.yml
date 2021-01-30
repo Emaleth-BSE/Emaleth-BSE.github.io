@@ -18,6 +18,9 @@ minima:
     youtube_channel_name: Emaleth
   skin: dark
 
+include:
+ - _pages
+ 
 header_pages:
  - master_plan.md
  - home.md
