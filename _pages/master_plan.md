@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Master Plan
-permalink: /master_plan/
+permalink: /master_plan
 ---
+Conquere the world.
