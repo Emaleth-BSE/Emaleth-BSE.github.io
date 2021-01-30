@@ -22,12 +22,12 @@ include:
  - _pages
  
 header_pages:
- - master_plan.md
- - home.md
- - blog.md
- - repositories.md
- - about.md
- - contact.md
+ - pages/master_plan.md
+ - pages/home.md
+ - pages/blog.md
+ - pages/repositories.md
+ - pages/about.md
+ - pages/contact.md
 
 excerpt_separator: "<!--more-->"
 
