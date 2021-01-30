@@ -19,7 +19,9 @@ minima:
   skin: dark
 
 header_pages:
- - index.md
+ - master_plan.md
+ - home.md
+ - blog.md
  - repositories.md
  - about.md
  - contact.md
