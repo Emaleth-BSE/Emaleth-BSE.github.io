@@ -16,7 +16,7 @@ minima:
     github:  Emaleth
     youtube_channel: UCMWrvCUwZyBYuLbhGB6P-Cg
     youtube_channel_name: Emaleth
-  skin: dark
+  skin: EN4
 
 include:
  - _pages
