@@ -23,6 +23,7 @@ include:
  
 header_pages:
  - _pages/master_plan.md
+ - _pages/donations.md
  - _pages/home.md
  - _pages/blog.md
  - _pages/repositories.md
