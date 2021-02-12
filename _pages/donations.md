@@ -6,12 +6,6 @@ permalink: /donations
 <table>
 
   <tr>
-    <th>Currency</th>
-    <th>Address</th>
-    <th>QR Code</th>
-  </tr>
-
-  <tr>
     <td>BTC</td>
     <td><code>bc1qzwl3whmpy80449t4tujshfe5eelnyeprvk683a</code></td>
     <td><img style="height:75%; width:75%" src="https://emaleth.dev/assets/images/qr_codes/BTC_QR.png"></td>
