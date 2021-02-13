@@ -24,6 +24,7 @@ table {
   td {
     border: 1px solid $table-border-color;
     min-width:3em;
+    min-height:3em;
   }
 
   @include media-query($on-laptop) {
