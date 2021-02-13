@@ -6,9 +6,9 @@ permalink: /donations
 <table style="width:100%;">
 
   <tr>
-    <td style="min-width:100px;"><img style="height:100%; width:100%; display:block; margin-left:auto; margin-right:auto; min-width:100px;" src="assets/images/crypto_icons/btc.svg"></td>
+    <td><img style="height:3em; width:3em; display:block; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>
     <td><code>bc1qzwl3whmpy80449t4tujshfe5eelnyeprvk683a</code></td>
-    <td><img style="height:75%; width:75%; display:block; margin-left:auto; margin-right:auto;" src="assets/images/qr_codes/BTC_QR.png"></td>
+    <td><img style="height:3em; width:3em; display:block; margin-left:auto; margin-right:auto;" src="assets/images/qr_codes/BTC_QR.png"></td>
   </tr>
   
   <tr>
