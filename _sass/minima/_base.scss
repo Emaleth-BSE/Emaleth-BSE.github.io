@@ -257,10 +257,6 @@ table {
   color: $table-text-color;
   border-collapse: collapse;
   border: 1px solid $table-border-color;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-top-left-radius: 3px;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
