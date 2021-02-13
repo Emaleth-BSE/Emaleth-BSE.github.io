@@ -3,7 +3,7 @@ title: Donations
 layout: page
 permalink: /donations
 ---
-<table style="width:100%; border-radius:3px;">
+<table style="width:100%;">
 
   <tr>
     <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>

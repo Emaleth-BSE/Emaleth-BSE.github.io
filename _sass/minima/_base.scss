@@ -273,11 +273,11 @@ table {
     border: 1px solid $table-border-color;
   }
 
-  table tr:last-child td:first-child {
+  tr:last-child td:first-child {
     border-bottom-left-radius: 3px;
   }
 
-  table tr:last-child td:last-child {
+  tr:last-child td:last-child {
     border-bottom-right-radius: 3px;
   }
 
