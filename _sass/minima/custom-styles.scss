@@ -8,6 +8,7 @@ table {
   border-radius:3px;
   -moz-border-radius:3px;
   -webkit-border-radius:3px;
+  -o-border-radius:3px;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
@@ -26,7 +27,7 @@ table {
 
   @include media-query($on-laptop) {
     display: block;
-    overflow-x: auto;
+    overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
