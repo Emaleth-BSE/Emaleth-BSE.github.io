@@ -4,6 +4,10 @@ layout: page
 collection: gh-repos
 permalink: //automaton/
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Automaton&show_owner=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ##### THIS IS A MODIFIED, WORK IN PROGRESS, ACTION BASED ON: 
 ##### https://github.com/dmnemec/copy_file_to_another_repo_action by https://github.com/dmnemec
 
