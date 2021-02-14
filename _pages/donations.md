@@ -4,6 +4,10 @@ layout: page
 permalink: /donations
 ---
 <table>
+  
+  <tr>
+    <th colspan="3">Crypto</th>
+  </tr>
 
   <tr>
     <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>
