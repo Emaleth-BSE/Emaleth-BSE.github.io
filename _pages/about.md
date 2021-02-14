@@ -5,9 +5,9 @@ permalink: //about/
 ---
 ### Hi there 👋
 
-<table>
+<table style="border:none;">
   <tr>
-    <td>
+    <td style="padding:0px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img style="height:100%; width:100%; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="https://github-readme-stats.vercel.app/api?username=Emaleth&count_private=true&include_all_commits=true&show_icons=true&title_color=#e5b083&text_color=#fbf7f3&icon_color=#e5b083&bg_color=#426e5d">
       </a>
