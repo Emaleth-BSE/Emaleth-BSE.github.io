@@ -34,3 +34,18 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+figure {
+    display: inline-block;
+    border: none;
+    margin: 0px;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    border: none;
+    text-align: center;
+}
