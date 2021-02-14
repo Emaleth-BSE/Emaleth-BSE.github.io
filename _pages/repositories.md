@@ -1,5 +1,5 @@
 ---
-layout: repo-list
+layout: repositories
 title: Repositories
 permalink: /repositories
 ---
