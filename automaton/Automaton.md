@@ -5,7 +5,7 @@ collection: gh-repos
 permalink: //automaton/
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Automaton&show_owner=true&include_all_commits=true&title_color="#e5b083"&text_color="#fbf7f3"&icon_color="#e5b083"&bg_color="#426e5d")](https://github.com/emaleth/automaton)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Automaton&show_owner=true&include_all_commits=true&theme=radical&title_color=#e5b083&text_color=#fbf7f3&icon_color=#e5b083&bg_color=#426e5d)](https://github.com/emaleth/automaton)
 
 
 
