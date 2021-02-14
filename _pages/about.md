@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: //about/
 ---
-[![Emaleth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emaleth&count_private=true&include_all_commits=true&show_icons=true&theme=radical&title_color="#e5b083"&text_color="#fbf7f3"&icon_color="#e5b083"&bg_color="#426e5d")](https://github.com/anuraghazra/github-readme-stats)
+[![Emaleth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emaleth&count_private=true&include_all_commits=true&show_icons=true&theme=radical&title_color=#e5b083&text_color=#fbf7f3&icon_color=#e5b083&bg_color=#426e5d)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
