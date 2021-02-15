@@ -3,7 +3,5 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/skins/EN4",
-  "minima/skins/LUXA",
   "minima/initialize";
