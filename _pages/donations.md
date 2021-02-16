@@ -60,9 +60,7 @@ permalink: /donations
   </tr>
 
   <tr>
-<! ---
-    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>
-    <td>PI</td>
+    <td style="text-align:center">PI</td>
     <td colspan="2" style="text-align:center"><code>https://minepi.com/Emaleth</code></td>
   </tr>
 
