@@ -61,7 +61,7 @@ permalink: /donations
 
   <tr>
     <td style="text-align:center">PI</td>
-    <td colspan="2" style="text-align:center"><code>https://minepi.com/Emaleth</code></td>
+    <td colspan="2" style="text-align:center"><code><a href="https://minepi.com/Emaleth">https://minepi.com/Emaleth</a></code></td>
   </tr>
 
 </table> 
