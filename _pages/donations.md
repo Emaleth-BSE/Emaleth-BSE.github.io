@@ -44,13 +44,8 @@ permalink: /donations
     <td style="text-align:center"><code>bKom9HV3f5DaUygaW8jyWPaZvEabgtfpoH</code></td>
     <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/qr_codes/LBC_QR.png"></td>
   </tr>
-
+  <caption style="caption-side: bottom;">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></caption>
 </table> 
-
-
-
-
-<h6 style="text-align:center">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></h6>
 
 
 <table>
