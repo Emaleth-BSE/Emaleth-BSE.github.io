@@ -53,3 +53,18 @@ permalink: /donations
 <h6 style="text-align:center">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></h6>
 
 
+<table>
+  
+  <tr>
+    <th colspan="3" style="text-align:center">Referral Links</th>
+  </tr>
+
+  <tr>
+<! ---
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>
+    <td>PI</td>
+    <td colspan="2" style="text-align:center"><code>https://minepi.com/Emaleth</code></td>
+  </tr>
+
+</table> 
+
