@@ -1,6 +1,6 @@
 # Emaleth.dev
 
-<figure>
+<figure style="text-align:center">
   <a href="https://github.com/emaleth/emaleth.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Emaleth.github.io&show_owner=true&include_all_commits=true&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
   </a>
