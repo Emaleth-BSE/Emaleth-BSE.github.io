@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: emaleth.dev
-Token: b4a823c030514f368611c5f4bcfc0c02583af600ba0f1a87bdb232a647838e4a

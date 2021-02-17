@@ -20,7 +20,6 @@ minima:
 
 include:
  - _pages
- - .well-known
  
 header_pages:
  - _pages/master_plan.md
