@@ -8,7 +8,7 @@ permalink: //automaton/
 <div style="text-align:center">
   <figure>
     <a href="https://github.com/emaleth/automaton">
-      <img style="text-align:center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Automaton&show_owner=true&include_all_commits=true&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emaleth&repo=Automaton&show_owner=true&include_all_commits=true&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
     </a>
     <figcaption>Beautifull <a href="https://github.com/anuraghazra/github-readme-stats">Repo Pins</a> courtesy of <a href="https://twitter.com/anuraghazru">Anurag Hazra</a></figcaption>
   </figure>
