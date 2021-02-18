@@ -63,6 +63,16 @@ permalink: /donations
     <td style="text-align:center">PI</td>
     <td colspan="2" style="text-align:center"><code><a href="https://minepi.com/Emaleth">https://minepi.com/Emaleth</a></code></td>
   </tr>
+ 
+  <tr>
+    <td style="text-align:center">Odysee</td>
+    <td colspan="2" style="text-align:center"><code><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></code></td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center">LBRY</td>
+    <td colspan="2" style="text-align:center"><code><a href="https://lbry.tv/$/invite/@Emaleth:c">https://lbry.tv/$/invite/@Emaleth:c</a></code></td>
+  </tr>
   
   <caption style="caption-side: bottom;"></caption>
 
