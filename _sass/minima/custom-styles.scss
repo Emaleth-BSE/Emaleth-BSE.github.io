@@ -49,3 +49,7 @@ figure figcaption {
     border: none;
     text-align: center;
 }
+
+.filter-lbry{
+  filter: invert(42%) sepia(91%) saturate(309%) hue-rotate(113deg) brightness(95%) contrast(85%);
+}
