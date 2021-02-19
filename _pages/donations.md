@@ -1,5 +1,5 @@
 ---
-title: Donations
+title: // Sacrifice
 layout: page
 permalink: /donations
 ---
@@ -66,18 +66,13 @@ permalink: /donations
   </tr>
 
   <tr>
-    <td style="text-align:center">PI</td>
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/brand_icons/PI-Network_icon.png"></td>
     <td colspan="2" style="text-align:center"><code><a href="https://minepi.com/Emaleth">https://minepi.com/Emaleth</a></code></td>
   </tr>
  
   <tr>
-    <td><img style="height:3em; width:auto; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/brand_icons/Odysee_icon.svg"></td>
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/brand_icons/Odysee_icon.svg"></td>
     <td colspan="2" style="text-align:center"><code><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></code></td>
-  </tr>
-
-  <tr>
-    <td><img style="height:3em; width:auto; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/brand_icons/LBRY_icon.svg"></td>
-    <td colspan="2" style="text-align:center"><code><a href="https://lbry.tv/$/invite/@Emaleth:c">https://lbry.tv/$/invite/@Emaleth:c</a></code></td>
   </tr>
   
   <caption style="caption-side: bottom;"></caption>

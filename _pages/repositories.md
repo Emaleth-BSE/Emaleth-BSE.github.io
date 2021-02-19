@@ -1,6 +1,6 @@
 ---
 layout: repositories
-title: Repositories
+title: // Repositories
 permalink: /repositories
 ---
 
