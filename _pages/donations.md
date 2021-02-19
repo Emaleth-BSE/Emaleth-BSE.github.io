@@ -10,6 +10,12 @@ permalink: /donations
   </tr>
 
   <tr>
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/nano.svg"></td>
+    <td style="text-align:center"><code>nano_3ebxundpedu9bejzhd1db68b6hnzxnkbkpo36q87nau53hsith95ncto7up9</code></td>
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/qr_codes/NANO_QR.png"></td>
+  </tr>
+  
+  <tr>
     <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/crypto_icons/btc.svg"></td>
     <td style="text-align:center"><code>bc1qzwl3whmpy80449t4tujshfe5eelnyeprvk683a</code></td>
     <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="assets/images/qr_codes/BTC_QR.png"></td>
