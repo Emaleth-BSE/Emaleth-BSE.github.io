@@ -16,36 +16,6 @@ words_per_minute         : 200
 search                   : true
 timezone                 : "Europe/Rome"
 
-# Site Author
-author:
-  name                   : "Emaleth"
-  avatar                 : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio                    : ""
-  location               : "EU"
-  links:
-    - label              : "Website"
-      icon               : "fas fa-fw fa-link"
-      url                : "https://emaleth.dev"
-
-    - label              : "Twitter"
-      icon               : "fab fa-fw fa-twitter-square"
-      url                : "https://twitter.com/EmalethDev"
-
-    - label              : "GitHub"
-      icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/emaleth"
-
-    - label              : "Itch"
-      icon               : ""
-      url                : "https://emaleth.itch.io/"
-
-    - label              : "Youtube"
-      icon               : ""
-      url                : "https://www.youtube.com/channel/UCMWrvCUwZyBYuLbhGB6P-Cg"
-
-    - label              : "Odysee"
-      icon               : ""
-      url                : "https://odysee.com/@Emaleth"
 
 # Site Footer
 footer:
@@ -63,11 +33,11 @@ footer:
       url                : "https://github.com/emaleth"
 
     - label              : "Itch"
-      icon               : ""
+      icon               : "fab fa-itch-io"
       url                : "https://emaleth.itch.io/"
 
     - label              : "Youtube"
-      icon               : ""
+      icon               : "fab fa-youtube"
       url                : "https://www.youtube.com/channel/UCMWrvCUwZyBYuLbhGB6P-Cg"
 
     - label              : "Odysee"
@@ -106,3 +76,4 @@ defaults:
       share             : true
       related           : true
       show_date         : true
+      author_profile    : true
