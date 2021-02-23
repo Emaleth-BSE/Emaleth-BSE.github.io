@@ -1,40 +1,80 @@
-title: Emaleth's Playground
+# Theme Settings
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon"
 
+# Site Settings
+locale                   : "en"
+title                    : "Emaleth's Playground"
+title_separator          : "|"
+subtitle                 : "// bad code by design //"
+name                     : "Emaleth"
+description              : ""
+url                      : "https://emaleth.dev"
+repository               : "emaleth/emaleth.github.io"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+words_per_minute         : 200
+search                   : true
+
+# Site Author
 author:
-  name:	Emaleth
+  name                   : "Emaleth"
+  avatar                 : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio                    : ""
+  location               : "EU"
+  links:
+    - label              : "Website"
+      icon               : "fas fa-fw fa-link"
+      url                : "https://emaleth.dev"
 
-description: // bad code by design //
+    - label              : "Twitter"
+      icon               : "fab fa-fw fa-twitter-square"
+      url                : "https://twitter.com/EmalethDev"
 
-show_excerpts: true
+    - label              : "GitHub"
+      icon               : "fab fa-fw fa-github"
+      url                : "https://github.com/emaleth"
 
-remote_theme: jekyll/minima
+    - label              : "Itch"
+      icon               : ""
+      url                : "https://emaleth.itch.io/"
 
-minima:
-  date_format: "%d-%m-%Y"
-  social_links:
-    twitter: EmalethDev
-    github:  Emaleth
-    youtube_channel: UCMWrvCUwZyBYuLbhGB6P-Cg
-    youtube_channel_name: Emaleth
-  skin: EN4
+    - label              : "Youtube"
+      icon               : ""
+      url                : "https://www.youtube.com/channel/UCMWrvCUwZyBYuLbhGB6P-Cg"
+
+    - label              : "Odysee"
+      icon               : ""
+      url                : "https://odysee.com/@Emaleth"
+
+# Reading Files
 
 include:
- - _pages
- 
-header_pages:
- - _pages/master_plan.md
- - _pages/donations.md
- - _pages/blog.md
- - _pages/repositories.md
- - _pages/about.md
- - _pages/contact.md
+  - _pages
 
-excerpt_separator: "<!--more-->"
+# Conversion
 
-google_analytics: G-ZGB569H81C
+excerpt_separator        : "<!--more-->"
+
+# Plugins
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-remote-theme
- - jekyll-spaceship
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Defaults
+
+defaults:
+  # _posts
+  - scope:
+      path              : ""
+      type              : posts
+    values:
+      layout            : single
+      read_time         : true
+      share             : true
+      related           : true
+      show_date         : true
