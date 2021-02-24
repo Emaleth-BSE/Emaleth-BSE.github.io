@@ -49,6 +49,9 @@ footer:
 include:
   - _pages
 
+exclude:
+ - README.md
+
 # Conversion
 
 excerpt_separator        : "<!--more-->"
