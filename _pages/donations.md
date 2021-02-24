@@ -1,7 +1,7 @@
 ---
 title: Donations
 layout: splash
-permalink: /donations
+permalink: /donations/
 ---
 <table>
   

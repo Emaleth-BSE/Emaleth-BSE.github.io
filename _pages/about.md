@@ -1,7 +1,7 @@
 ---
 title: About
 layout: spash
-permalink: /about
+permalink: /about/
 ---
 ### Hi there 👋
 
