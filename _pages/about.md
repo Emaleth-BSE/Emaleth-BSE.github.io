@@ -1,6 +1,6 @@
 ---
 title: About
-layout: spash
+layout: splash
 permalink: /about/
 ---
 ### Hi there 👋
