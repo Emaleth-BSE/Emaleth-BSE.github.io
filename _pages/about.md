@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: splash
 permalink: /about/
 ---
-ffffff
+{% remote_include https://github.com/Emaleth/Emaleth/blob/main/README.md %}
