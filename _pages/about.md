@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: splash
 permalink: //about/
 ---
 
