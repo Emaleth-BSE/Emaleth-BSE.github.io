@@ -3,13 +3,16 @@ title: About
 layout: splash
 permalink: //about/
 ---
-
-<a style="text-align:center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=Emaleth&count_private=true&include_all_commits=true&show_icons=true&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
-</a>
-<a style="text-align:center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="text-align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaleth&layout=compact&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
-</a>
-
+### Hi there 👋
+<center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Emaleth&count_private=true&include_all_commits=true&show_icons=true&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
+  </a>
+</center>
+<center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaleth&layout=compact&title_color=e5b083&text_color=fbf7f3&icon_color=e5b083&bg_color=20283d" />
+  </a>
+</center>
 <center>Hello, work in progress, come back in a few days.</center>
 
