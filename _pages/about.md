@@ -1,7 +1,7 @@
 ---
 title: About
 layout: splash
-permalink: //about/
+permalink: /about/
 ---
 ### Hi there 👋
 <center>
