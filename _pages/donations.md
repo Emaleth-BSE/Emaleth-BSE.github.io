@@ -4,7 +4,7 @@ layout: splash
 permalink: /donations/
 ---
 <div style="text-align:center">
-  <table>
+  <table style="text-align:center">
     <tr>
       <th colspan="3" style="text-align:center">Crypto</th>
     </tr>
@@ -17,7 +17,7 @@ permalink: /donations/
   </table> 
 </div>
 <div style="text-align:center">
-  <table>
+  <table style="text-align:center">
     <tr>
       <th colspan="3" style="text-align:center">Referral Links</th>
     </tr>
