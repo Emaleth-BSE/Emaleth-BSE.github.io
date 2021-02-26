@@ -3,14 +3,7 @@ title: Donations
 layout: single
 permalink: /donations/
 ---
-<style>
-table.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<table class="center">
+<table style="width:100%; margin-left:auto; margin-right:auto;">
   <tr>
     <th colspan="3" style="text-align:center">Crypto</th>
   </tr>
@@ -21,7 +14,7 @@ table.center {
   </tr>
   <caption style="caption-side: bottom;">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></caption>
 </table> 
-<table class="center">
+<table style="width:100%; margin-left:auto; margin-right:auto;">
   <tr>
     <th colspan="3" style="text-align:center">Referral Links</th>
   </tr>
