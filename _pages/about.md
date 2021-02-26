@@ -1,6 +1,6 @@
 ---
 title: About
-layout: splash
+layout: single
 permalink: //about/
 ---
 <h2 style="text-align:center"> Hi there 👋<h2>

@@ -1,9 +1,9 @@
 ---
 title: Donations
-layout: splash
+layout: single
 permalink: /donations/
 ---
-<div style="text-align:center">
+<center>
   <table style="text-align:center">
     <tr>
       <th colspan="3" style="text-align:center">Crypto</th>
@@ -15,8 +15,6 @@ permalink: /donations/
     </tr>
     <caption style="caption-side: bottom;">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></caption>
   </table> 
-</div>
-<div style="text-align:center">
   <table style="text-align:center">
     <tr>
       <th colspan="3" style="text-align:center">Referral Links</th>
@@ -27,4 +25,4 @@ permalink: /donations/
     </tr>
     <caption style="caption-side: bottom;"></caption>
   </table> 
-</div>
+</center>
