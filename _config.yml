@@ -17,9 +17,9 @@ exclude:
  - README.md
 
 header_pages:
- - _pages/home.md
  - _pages/about.md
  - _pages/blog.md
+ - _pages/games.md
  - _pages/donations.md
  - _pages/contact.md
 
