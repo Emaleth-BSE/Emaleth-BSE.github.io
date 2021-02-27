@@ -9,11 +9,6 @@ remote_theme: "jekyll/minima"
 minima:
   skin: "dark"
   date_format: "%H:%M %d-%m-%Y"
-  social_links:
-    twitter: "EmalethDev"
-    github: "Emaleth"
-    youtube_channel: "UCMWrvCUwZyBYuLbhGB6P-Cg"
-    youtube_channel_name: "Emaleth's Playground"
 
 include:
  - _pages
