@@ -19,7 +19,7 @@ permalink: /donations
     <th colspan="3" style="text-align:center">Referral Links</th>
   </tr>
   <tr>
-    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="/assets/images/branding_external/Odysee.svg"></td>
+    <td><img style="height:3em; width:3em; display:block; border-radius:3px; margin-left:auto; margin-right:auto;" src="/assets/images/branding/external/odysee/Odysee.svg"></td>
     <td colspan="2" style="text-align:center"><code><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></code></td>
   </tr>
   <caption style="caption-side: bottom;"></caption>
