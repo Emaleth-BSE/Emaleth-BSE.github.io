@@ -1,7 +1,7 @@
 ---
-title: Donations
+title: // Donations
 layout: page
-permalink: /donations/
+permalink: /donations
 ---
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
