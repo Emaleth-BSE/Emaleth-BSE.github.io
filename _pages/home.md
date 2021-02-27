@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: page
 permalink: /
 title: home
 ---

@@ -1,6 +1,6 @@
 ---
 title: About
-layout: single
+layout: page
 permalink: //about/
 ---
 <h2 style="text-align:center"> Hi there 👋<h2>

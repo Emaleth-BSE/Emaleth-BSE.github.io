@@ -1,6 +1,6 @@
 ---
 title: Donations
-layout: single
+layout: page
 permalink: /donations/
 ---
 <table style="margin-left:auto; margin-right:auto;">
