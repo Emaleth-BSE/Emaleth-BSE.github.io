@@ -12,6 +12,7 @@ minima:
 
 include:
  - _pages
+ - _games
 
 exclude:
  - README.md
