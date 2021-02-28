@@ -14,7 +14,7 @@ permalink: /donations
   </tr>
   <caption style="caption-side: bottom;">Crypto icons courtesy of <a href="http://cryptoicons.co">CryptoIcons</a></caption>
 </table> 
-<table style="margin-left:auto; margin-right:auto;">
+<!-- <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <th colspan="3" style="text-align:center">Referral Links</th>
   </tr>
@@ -23,12 +23,12 @@ permalink: /donations
     <td colspan="2" style="text-align:center"><code><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></code></td>
   </tr>
   <caption style="caption-side: bottom;"></caption>
-</table> 
+</table> -->
 
 <div class="card">
-  <img src="/assets/images/branding/odysee/Odysee.svg" style="height:3em; width:3em; display:block; border-radius:3px;">
+  <img src="/assets/images/branding/odysee/Odysee.svg" sstyle="height:3em; width:3em; border-radius:5px; margin-left:auto; margin-right:auto;">
   <div class="container">
-    <h4><b>Odysee</b></h4>
-    <p><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></p>
+    <h4 style="text-align:center"><b>Odysee</b></h4>
+    <p style="text-align:center"><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></p>
   </div>
 </div>
