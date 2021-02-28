@@ -1,43 +1,8 @@
 /**
- * Tables
- */
-table {
-  margin-bottom: $spacing-unit;
-  width: 100%;
-  text-align: $table-text-align;
-  color: $table-text-color;
-  border-collapse: collapse;
-  border: 1px solid $table-border-color;
-  tr {
-    &:nth-child(even) {
-      background-color: $table-zebra-color;
-    }
-  }
-  th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
-    min-width: 3em;
-  }
-  th {
-    background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
-  }
-  td {
-    border: 1px solid $table-border-color;
-  }
-
-  @include media-query($on-laptop) {
-    display: block;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-            -ms-overflow-style: -ms-autohiding-scrollbar;
-  }
-}
-
-/**
  * Cards
  */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
   transition: 0.3s;
   border-radius: 5px; /* 5px rounded corners */
   width: 200px;
@@ -50,7 +15,7 @@ table {
 
   /* On mouse-over, add a deeper shadow */
   .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.2);
   }
 
   /* Add some padding inside the card container */
