@@ -40,11 +40,12 @@ table {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 5px; /* 5px rounded corners */
-  width: 30vw;
+  width: 200px;
   
   /* Add rounded corners to the top left and the top right corner of the image */
   img {
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px;
+    padding: 1em;
   }
 
   /* On mouse-over, add a deeper shadow */
@@ -54,7 +55,7 @@ table {
 
   /* Add some padding inside the card container */
   .container {
-    padding: 2px 16px;
+    padding: 0.5em 1em;
   }
 }
 
