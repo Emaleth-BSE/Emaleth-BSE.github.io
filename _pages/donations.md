@@ -26,7 +26,7 @@ permalink: /donations
 </table> -->
 
 <div class="card">
-  <img src="/assets/images/branding/odysee/Odysee.svg" sstyle="height:3em; width:3em; border-radius:5px; margin-left:auto; margin-right:auto;">
+  <img src="/assets/images/branding/odysee/Odysee.svg" style="height:3em; width:3em; border-radius:5px; margin-left:auto; margin-right:auto;">
   <div class="container">
     <h4 style="text-align:center"><b>Odysee</b></h4>
     <p style="text-align:center"><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></p>
