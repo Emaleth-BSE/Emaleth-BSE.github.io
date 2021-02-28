@@ -6,7 +6,7 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <img style="display:inline-block; height:3em; width:3em" src="assets/images/branding/emaleth/Logo.png">
-      {{ site.title | escape }} 
+      <!-- {{ site.title | escape }} --> 
     </a>
 
     {%- if titles_size > 0 -%}
