@@ -6,7 +6,7 @@
   transition: 0.3s;
   border-radius: 5px; /* 5px rounded corners */
   width: 200px;
-  margin: 3em;
+  margin: 1em;
   
   /* Add rounded corners to the top left and the top right corner of the image */
   img {
@@ -21,7 +21,10 @@
 
   /* Add some padding inside the card container */
   .container {
-    padding: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 0em;
   }
 }
 
