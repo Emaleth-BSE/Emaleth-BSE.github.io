@@ -1,12 +1,11 @@
 // Content width
 $content-width: 100vw !default;
-
-$on-palm:          100vw !default;
-$on-laptop:        100vw !default;
+$on-palm: 100vw !default;
+$on-laptop: 100vw !default;
 
 // Fonts
-$base-font-family: 'Fira Sans', sans-serif !default;
-$code-font-family: 'Fira Code', monospace;
+$base-font-family: 'Roboto', sans-serif; !default;
+$code-font-family: 'Roboto Mono', monospace;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
