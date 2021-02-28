@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-permalink: //about/
+permalink: /about
 ---
 <h2 style="text-align:center"> Hi there 👋<h2>
 <div style="text-align:center">
