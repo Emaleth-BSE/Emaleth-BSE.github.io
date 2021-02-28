@@ -6,11 +6,12 @@
   transition: 0.3s;
   border-radius: 5px; /* 5px rounded corners */
   width: 200px;
+  margin: 3em;
   
   /* Add rounded corners to the top left and the top right corner of the image */
   img {
     border-radius: 5px;
-    padding: 1em;
+    margin: 1em;
   }
 
   /* On mouse-over, add a deeper shadow */
@@ -20,7 +21,7 @@
 
   /* Add some padding inside the card container */
   .container {
-    padding: 0.5em 1em;
+    padding: 1em;
   }
 }
 
