@@ -25,3 +25,10 @@ permalink: /donations
   <caption style="caption-side: bottom;"></caption>
 </table> 
 
+<div class="card">
+  <img src="/assets/images/branding/odysee/Odysee.svg" style="height:3em; width:3em; display:block; border-radius:3px;">
+  <div class="container">
+    <h4><b>Odysee</b></h4>
+    <p><a href="https://odysee.com/$/invite/@Emaleth:c">https://odysee.com/$/invite/@Emaleth:c</a></p>
+  </div>
+</div>
