@@ -71,3 +71,21 @@ img.IconImage {
     text-align: right;
   }
 }
+
+/**
+ * Page Navigation
+ */
+.page-link {
+  color: $text-color;
+  line-height: $base-line-height;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 0px 10px;
+
+  // Gaps between nav items, but not on the last one
+  &:not(:last-child) {
+    margin-right: 0;
+  }
+  margin-left: 20px;
+}
