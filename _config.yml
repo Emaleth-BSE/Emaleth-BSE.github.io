@@ -56,8 +56,8 @@ site-css:
 #site-js:
 #  - "/assets/js/custom-script.js"
 
-date_format: "%B %-d, %Y"
-timezone: "America/Toronto"
+date_format: "%H:%M %d-%m-%Y"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -75,12 +75,14 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       head-extra: favicon.html
+      readtime: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
       head-extra: favicon.html
+      before-content: motd-strip.html
       
 exclude:
   - CNAME
