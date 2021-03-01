@@ -10,13 +10,13 @@ navbar-links:
   About: "about"
   Contact: "contact"
 
-avatar: "/assets/images/branding/emaleth/Logo.png"
+avatar: "/assets/img/Logo.png"
 round-avatar: true
 social-network-links:
   github: "Emaleth"
   twitter: "EmalethDev"
-  youtube: c/daattali
-  reddit: yourname
+  youtube: "channel/UCMWrvCUwZyBYuLbhGB6P-Cg"
+  reddit: "EmalethDev"
 
 rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
@@ -50,11 +50,9 @@ footer-link-col: "#404040"
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
 
-# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
-# If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"
 
