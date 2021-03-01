@@ -3,7 +3,7 @@ title: Donations
 layout: page
 permalink: /donations
 ---
-<div class="FlexWrap>
+<div class="FlexWrap">
   <div class="card">
     <img style="height:3em; width:3em; display:block; margin-left:auto; margin-right:auto;" src="ICON">
     <div class="container">
