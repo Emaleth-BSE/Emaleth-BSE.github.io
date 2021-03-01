@@ -7,6 +7,7 @@
   border-radius: 5px; /* 5px rounded corners */
   width: 200px;
   margin: 1em;
+  display: inline-block;
   
   /* Add rounded corners to the top left and the top right corner of the image */
   img {
@@ -28,7 +29,15 @@
   }
 }
 
- /**
+/**
+ *
+ */
+.FlexWrap {
+  display: flex;
+  text-align: center;
+
+} 
+/**
  * Page Navigation
  */
 .PageNavigation {

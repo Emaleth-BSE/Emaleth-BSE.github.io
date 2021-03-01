@@ -3,7 +3,7 @@ title: Donations
 layout: page
 permalink: /donations
 ---
-<div style="display:flex">
+<div class="FlexWrap>
   <div class="card">
     <img style="height:3em; width:3em; display:block; margin-left:auto; margin-right:auto;" src="ICON">
     <div class="container">
@@ -21,7 +21,7 @@ permalink: /donations
   </div>
 </div>
 
-<div style="display:flex">
+<div class="FlexWrap">
   <div class="card">
     <img style="height:3em; width:3em; display:block; margin-left:auto; margin-right:auto;" src="/assets/images/branding/odysee/Odysee.svg">
     <div class="container">
