@@ -14,12 +14,12 @@ author: "Emaleth"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "_pages/home"
-  About: "_pages/about"
-  Blog: "_pages/blog"
-  Contact: "_pages/contact"
-  Donations: "_pages/donations"
-  Games: "_pages/games"
+  Home: "home"
+  About: "about"
+  Blog: "blog"
+  Contact: "contact"
+  Donations: "donations"
+  Games: "games"
 
 # --- Logo --- #
 
