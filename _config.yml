@@ -75,7 +75,7 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       head-extra: favicon.html
-      head-extra: motd-strip.html
+      before-content: motd-strip.html
       readtime: true
   -
     scope:
@@ -83,7 +83,7 @@ defaults:
     values:
       layout: "page"
       head-extra: favicon.html
-      head-extra: motd-strip.html
+      before-content: motd-strip.html
       
 exclude:
   - CNAME
