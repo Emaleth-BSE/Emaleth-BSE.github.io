@@ -14,12 +14,14 @@ author: "Emaleth"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "/"
   About: "about"
   Blog: "blog"
   Contact: "contact"
   Donations: "donations"
   Games: "games"
+   - Beleth: "Beleth"
+   - Valefar: "Valefar"
 
 # --- Logo --- #
 
@@ -42,8 +44,8 @@ round-avatar: true
 social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: "Emaleth"
+  twitter: "EmalethDev"
 #  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
