@@ -14,11 +14,12 @@ author: "Emaleth"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "_pages/home"
+  About: "_pages/about"
+  Blog: "_pages/blog"
+  Contact: "_pages/contact"
+  Donations: "_pages/donations"
+  Games: "_pages/games"
 
 # --- Logo --- #
 
@@ -222,6 +223,10 @@ exclude:
   - README.md
 #  - screenshot.png
 #  - docs/
+
+include:
+  - _pages
+  - _games
 
 plugins:
   - jekyll-remote-theme
