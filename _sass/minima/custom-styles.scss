@@ -1,7 +1,7 @@
 /**
  * Cards
  */
-.card {
+div.card {
   box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
   transition: 0.3s;
   border-radius: 5px; /* 5px rounded corners */
@@ -20,7 +20,7 @@
   }
 
   /* Add some padding inside the card container */
-  .container {
+  div.container {
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1em;
@@ -29,13 +29,24 @@
 }
 
 /**
- *
+ * Flex Wrap for Cards
  */
-.FlexWrap {
+div.FlexWrap {
   display: flex;
   justify-content: center;
+}
 
-} 
+/**
+ * Icon Image
+ */
+img.IconImage {
+  height: 3em; 
+  width: 3em; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
 /**
  * Page Navigation
  */
