@@ -20,8 +20,8 @@ navbar-links:
   Contact: "contact"
   Donations: "donations"
   Games: "games"
-   - Beleth: "Beleth"
-   - Valefar: "Valefar"
+  # - Beleth: "Beleth"
+  # - Valefar: "Valefar"
 
 # --- Logo --- #
 
