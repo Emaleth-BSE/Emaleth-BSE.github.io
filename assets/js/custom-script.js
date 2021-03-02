@@ -1,9 +1,9 @@
-$(document).ready(function () {
+$(document).ready(function() {
   var speed = 5;
   var items,
     scroller = $(".scroller");
   var width = 0;
-  scroller.children().each(function () {
+  scroller.children().each(function() {
     width += $(this).outerWidth(true);
   });
   scroller.css("width", width);
