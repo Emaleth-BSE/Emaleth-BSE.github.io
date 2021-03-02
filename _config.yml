@@ -82,6 +82,7 @@ defaults:
     values:
       layout: "page"
       head-extra: favicon.html
+      head-extra: motd-strip.html
       
 exclude:
   - CNAME
