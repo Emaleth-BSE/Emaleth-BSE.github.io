@@ -1,7 +1,7 @@
-import * as JQuery from "jquery";
-const $ = JQuery.default;
 
 $(document).ready(function () {
+  import * as JQuery from "jquery";
+  const $ = JQuery.default;
   var speed = 5;
   var items,
     scroller = $(".scroller");
