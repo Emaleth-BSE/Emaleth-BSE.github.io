@@ -75,14 +75,13 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: true
-      head-extra: favicon.html
+      head-extra: "favicon.html"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      head-extra: favicon.html
-      head-extra: motd-strip.html
+      head-extra: "favicon.html"
       
 exclude:
   - CNAME
