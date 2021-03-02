@@ -74,9 +74,8 @@ defaults:
       layout: "post"
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      head-extra: favicon.html
-      before-content: motd-strip.html
       readtime: true
+      head-extra: favicon.html
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -84,6 +83,7 @@ defaults:
       layout: "page"
       head-extra: favicon.html
       before-content: motd-strip.html
+      js: "/assets/js/custom-script.js"
       
 exclude:
   - CNAME
