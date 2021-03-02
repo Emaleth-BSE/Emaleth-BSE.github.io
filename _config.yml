@@ -17,6 +17,7 @@ social-network-links:
   twitter: "EmalethDev"
   youtube: "channel/UCMWrvCUwZyBYuLbhGB6P-Cg"
   reddit: "EmalethDev"
+  spotify: "j48c3mja372gszea3lklehgvq"
 
 rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
@@ -29,8 +30,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "game, gamedev, godot, github, Emaleth, beleth, valefar, entertainment"
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
