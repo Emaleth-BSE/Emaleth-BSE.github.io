@@ -19,7 +19,7 @@ social-network-links:
   reddit: "EmalethDev"
   spotify: "j48c3mja372gszea3lklehgvq"
 
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: "This website is a virtual proof that I'm awesome"
 share-links-active:
   twitter: true
   facebook: false
@@ -51,21 +51,30 @@ footer-link-col: "#404040"
 #mobile-theme-col: "#0085A1"
 
 site-css:
-  - "/assets/css/custom-styles.css"
+  - "/assets/css/Cards.css"
+  - "/assets/css/FlexWrap.css"
+  - "/assets/css/IconImage.css"
 
 # site-js:
 #   - "/assets/js/custom-script.js"
 
 date_format: "%H:%M %d-%m-%Y"
 timezone: "Europe/Rome"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
+markdown: "kramdown"
+highlighter: "rouge"
+permalink: "/:year-:month-:day-:title/"
 paginate: 5
 kramdown:
-  input: GFM
+  input: "GFM"
 
 defaults:
+  -
+    scope:
+      path: "" # any file
+    values:
+      head-extra: "favicon.html"
+      head-extra: "motd.html"
+
   -
     scope:
       path: ""
@@ -75,26 +84,25 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: true
-      head-extra: "favicon.html"
+
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      head-extra: "favicon.html"
       
 exclude:
-  - CNAME
-  - LICENSE
-  - README.md
+  - "CNAME"
+  - "LICENSE"
+  - "README.md"
 
 include:
-  - _pages
-  - _games
+  - "_pages"
+  - "_games"
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
+  - "jekyll-remote-theme"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
 
 
