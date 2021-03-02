@@ -34,3 +34,7 @@
   display: inline-block; /* Lay items in a horizontal line */
   padding: 0 2rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .ticker-move { animation-duration: 20s; }
+}
