@@ -53,8 +53,8 @@ footer-link-col: "#404040"
 site-css:
   - "/assets/css/custom-styles.css"
 
-site-js:
-  - "/assets/js/custom-script.js"
+# site-js:
+#   - "/assets/js/custom-script.js"
 
 date_format: "%H:%M %d-%m-%Y"
 timezone: "Europe/Rome"
@@ -82,8 +82,6 @@ defaults:
     values:
       layout: "page"
       head-extra: favicon.html
-      before-content: motd-strip.html
-      js: "/assets/js/custom-script.js"
       
 exclude:
   - CNAME
