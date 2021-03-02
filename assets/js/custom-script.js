@@ -22,4 +22,4 @@ $(document).ready(function () {
     scroller.append(items.eq(0).remove()).css("left", 0);
     scroll();
   }
-});
+})(jQuery); 
