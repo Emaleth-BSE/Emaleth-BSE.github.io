@@ -1,3 +1,6 @@
+import * as JQuery from "jquery";
+const $ = JQuery.default;
+
 $(document).ready(function () {
   var speed = 5;
   var items,
@@ -22,4 +25,4 @@ $(document).ready(function () {
     scroller.append(items.eq(0).remove()).css("left", 0);
     scroll();
   }
-})(jQuery); 
+}); 
