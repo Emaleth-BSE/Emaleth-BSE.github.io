@@ -69,22 +69,28 @@ kramdown:
   input: "GFM"
 
 defaults:
-  -
+  - # All
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      head-extra: "favicon.html"
+
+  - # Posts
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false 
+      social-share: true 
       readtime: true
-
-  -
+ 
+  - # Pages
     scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      path: ""
+      type: "pages"
     values:
-      layout: "page"
-      head-extra: "favicon.html"
       before-content: "motd.html"
       
 exclude:
