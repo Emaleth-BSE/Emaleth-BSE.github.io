@@ -4,7 +4,7 @@ title: "Emaleth's Playground"
 author: "Emaleth"
 navbar-links:
   Home: "/"
-  Games: "games"
+  Games:
    - Beleth: "beleth"
    - Valefar: "valefar"
   Blog: "blog"
