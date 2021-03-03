@@ -78,7 +78,6 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: true
-      head-extra: "favicon.html"
 
   -
     scope:
