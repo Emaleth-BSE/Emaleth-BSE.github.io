@@ -4,7 +4,7 @@ permalink: /donations
 ---
 <div class="FlexWrap">
   <div class="card">
-    <img class="IconImage" src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/color/lbc.svg">
+    <img class="IconImage" src="/assets/img/crypto/lbc.svg">
     <div class="container">
       <h4 style="text-align:center"><b>LBC</b></h4>
       <p style="text-align:center"><code>bPGS6dx1Q81AhEMp6iNRrs2vT7LQV1XeAW</code></p>
