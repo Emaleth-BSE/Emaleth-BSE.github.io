@@ -79,7 +79,6 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
       readtime: true
       head-extra: "favicon.html"
-      before-content: "motd.html"
 
   -
     scope:
