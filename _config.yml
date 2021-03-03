@@ -5,6 +5,8 @@ author: "Emaleth"
 navbar-links:
   Home: "/"
   Games: "games"
+   - Beleth: "beleth"
+   - Valefar: "valefar"
   Blog: "blog"
   Donations: "donations"
   About: "about"
