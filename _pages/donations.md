@@ -124,9 +124,11 @@ permalink: /donations
   <div class="card">
     <img class="card-icon" src="/assets/img/Odysee.svg">
     <div class="container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Odysee</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
+
+  {% include card.html icon="/assets/img/Odysee.svg" name="Odysee" link="https://emaleth.dev" %}
 
 </div>
