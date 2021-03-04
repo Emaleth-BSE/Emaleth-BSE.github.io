@@ -6,8 +6,7 @@ Work in Progress
 Sources:
  - Jekyll
  - Github Pages
- - Minimal Mistakes Theme
- - Dark Skin
+ - Beautifyll Jekyll
  - Automaton Github Action
 </div>
 
