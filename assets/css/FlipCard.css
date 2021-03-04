@@ -1,9 +1,10 @@
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   width: 300px;
   height: 200px;
-  border: 1px solid #f1f1f1;
+  border-radius: 5px;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
   margin: 1rem;
 }
@@ -39,13 +40,9 @@
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
-  color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
-  color: white;
   transform: rotateY(180deg);
 }
