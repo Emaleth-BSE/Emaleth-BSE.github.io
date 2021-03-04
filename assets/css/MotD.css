@@ -1,6 +1,7 @@
 .tcontainer {
   width: 100%;
   overflow: hidden; /* Hide scroll bar */
+  margin: 1rem 0rem;
 }
  
 /* MIDDLE CONTAINER */
