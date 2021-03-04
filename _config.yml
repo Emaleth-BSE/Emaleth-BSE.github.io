@@ -53,9 +53,9 @@ footer-link-col: "#404040"
 #mobile-theme-col: "#0085A1"
 
 site-css:
-  - "/assets/css/Cards.css"
+  - "/assets/css/Card.css"
+  - "/assets/css/FlipCard.css"
   - "/assets/css/FlexWrap.css"
-  - "/assets/css/IconImage.css"
   - "/assets/css/MotD.css"
 
 # site-js:

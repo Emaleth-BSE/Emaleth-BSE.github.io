@@ -3,29 +3,26 @@ layout: page
 permalink: /donations
 ---
 <div class="FlexWrap">
-  <div class="flip-card">
-    <div class="flip-card-inner">
-      <div class="flip-card-front">
-        <img class="icon" src="/assets/img/crypto/lbc.svg">
-      </div>
-      <div class="flip-card-back">
-        <h4 style="text-align:center"><b>LBC</b></h4>
-        <p style="text-align:center"><code>bPGS6dx1Q81AhEMp6iNRrs2vT7LQV1XeAW</code></p>
-      </div>
-    </div>
-  </div>
-</div>
 
-<div class="FlexWrap">
+  <div class="card">
+    <img class="card-icon">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img class="icon" src="/assets/img/Odysee.svg">
+        <img class="flip-card-icon" src="img_avatar.png">
       </div>
       <div class="flip-card-back">
-        <h4 style="text-align:center"><b>Odysee</b></h4>
-        <p style="text-align:center"><a href="https://odysee.com/$/invite/@Emaleth:c"><code>https://odysee.com/$/invite/@Emaleth:c</code></a></p>
+        <h1>John Doe</h1>
+        <p>Architect & Engineer</p>
+        <p>We love that guy</p>
       </div>
     </div>
   </div>
+
 </div>
