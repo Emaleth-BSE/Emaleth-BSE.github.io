@@ -22,6 +22,8 @@
 /* Add rounded corners to the top left and the top right corner of the image */
 .flip-card-icon {
   border-radius: 5px 5px 0 0;
+  width: 3rem;
+  height: 3rem;
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
