@@ -5,7 +5,7 @@ permalink: /donations
 <div class="FlexWrap">
 
   <div class="card">
-    <img class="card-icon">
+    <img class="card-icon" src="/assets/img/Logo.png">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
@@ -15,7 +15,7 @@ permalink: /donations
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <img class="flip-card-icon" src="img_avatar.png">
+        <img class="flip-card-icon" src="/assets/img/Logo.png">
       </div>
       <div class="flip-card-back">
         <h1>John Doe</h1>
