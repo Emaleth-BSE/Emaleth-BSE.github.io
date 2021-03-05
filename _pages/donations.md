@@ -5,7 +5,7 @@ permalink: /donations
 <h2 style="text-align:center">Crypto</h2>
 <div class="FlexWrap">
 
-  {% include flip_card.html name="BTC" icon="/assets/img/crypto/icons/btc.svg" qr="/assets/img/crypto/qr/btc.png" address="test" %}
+  {% include flip_card.html name="BTC" icon="/assets/img/crypto/icons/btc.svg" qr="/assets/img/crypto/qr/btc.png" address="bc1qeuepx8fec3tm6343sryjv87lkqcmnvzzh3wnjw" %}
   {% include flip_card.html name="ETH" icon="/assets/img/crypto/icons/eth.svg" qr="/assets/img/crypto/qr/eth.png" address="another test" %}
   {% include flip_card.html name="NANO" icon="/assets/img/crypto/icons/nano.svg" qr="/assets/img/crypto/qr/nano.png" address="" %}
   {% include flip_card.html name="DOGE" icon="/assets/img/crypto/icons/doge.svg" qr="/assets/img/crypto/qr/doge.png" address="trollolo" %}
