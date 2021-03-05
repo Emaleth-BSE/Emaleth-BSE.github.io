@@ -19,5 +19,6 @@ permalink: /donations
 <div class="FlexWrap">
 
   {% include card.html icon="/assets/img/Odysee.svg" name="Odysee" link="https://odysee.com/$/invite/@Emaleth:c" %}
+  {% include card.html icon="/assets/img/Publish0x.png" name="Publish0x" link="https://www.publish0x.com?a=WPe98lkDdL" %}
 
 </div>
