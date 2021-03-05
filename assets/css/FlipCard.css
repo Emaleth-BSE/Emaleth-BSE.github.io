@@ -27,6 +27,14 @@
   height: 3rem;
 }
 
+/* Add rounded corners to the top left and the top right corner of the image */
+.flip-card-qr {
+  border-radius: 5px; /* 5px rounded corners */
+  margin: 1rem auto;
+  width: 5rem;
+  height: 5rem;
+}
+
 /* Do an horizontal flip when you move the mouse over the flip box container */
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
