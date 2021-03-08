@@ -1,42 +1,54 @@
-<div class="slideshow-container">
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
 
-<div class="mySlides fade">
-  <img src="{{ include.icon }}" style="width:100%">
+<div class="w3-container">
+  <h2>Slideshow Indicators</h2>
+  <p>Using images to indicate how many slides there are in the slideshow, and highlight the image the user is currently viewing.</p>
 </div>
 
-<div class="mySlides fade">
-  <img src="{{ include.icon }}" style="width:100%">
-</div>
+<div class="w3-content" style="max-width:1200px">
+  <img class="mySlides" src="{ include.icon }" style="width:100%;display:none">
+  <img class="mySlides" src="{ include.icon }" style="width:100%">
+  <img class="mySlides" src="{ include.icon }" style="width:100%;display:none">
 
-<div class="mySlides fade">
-  <img src="{{ include.icon }}" style="width:100%">
-</div>
-
-</div>
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
+  <div class="w3-row-padding w3-section">
+    <div class="w3-col s4">
+      <img class="demo w3-opacity w3-hover-opacity-off" src="{ include.icon }" style="width:100%;cursor:pointer" onclick="currentDiv(1)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demo w3-opacity w3-hover-opacity-off" src="{ include.icon }" style="width:100%;cursor:pointer" onclick="currentDiv(2)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demo w3-opacity w3-hover-opacity-off" src="{ include.icon }" style="width:100%;cursor:pointer" onclick="currentDiv(3)">
+    </div>
+  </div>
 </div>
 
 <script>
-var slideIndex = 0;
-showSlides();
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
 
-function showSlides() {
+function showDivs(n) {
   var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
   for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
+    dots[i].className = dots[i].className.replace(" w3-opacity-off", "");
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 10000); // Change image every 10 seconds
+  x[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " w3-opacity-off";
 }
 </script>
+
+</body>
+</html>
