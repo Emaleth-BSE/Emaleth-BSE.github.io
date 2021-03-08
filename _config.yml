@@ -57,6 +57,7 @@ site-css:
   - "/assets/css/FlipCard.css"
   - "/assets/css/FlexWrap.css"
   - "/assets/css/MotD.css"
+  - "/assets/css/AutomaticSlideshow.css"
 
 # site-js:
 #   - "/assets/js/custom-script.js"
