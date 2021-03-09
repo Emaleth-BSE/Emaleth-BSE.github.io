@@ -57,10 +57,10 @@ site-css:
   - "/assets/css/FlipCard.css"
   - "/assets/css/FlexWrap.css"
   - "/assets/css/MotD.css"
-  - "/assets/css/AutomaticSlideshow.css"
+  - "/assets/css/Slideshow.css"
 
-# site-js:
-#   - "/assets/js/custom-script.js"
+ site-js:
+   - "/assets/js/slideshow.js"
 
 date_format: "%H:%M %d-%m-%Y"
 timezone: "Europe/Rome"
