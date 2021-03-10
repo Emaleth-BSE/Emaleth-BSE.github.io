@@ -6,10 +6,10 @@
 }
 
 .slideshow-container {
-  width: 100%; /*2500px;*/
+  width: 500%; /*2500px;*/
   font-size: 0;
   transition: 1s ease;
-  height: 100%; /*225px;*/
+  height: 20%; /*225px;*/
 }
 
 .slideshow-container:hover {
