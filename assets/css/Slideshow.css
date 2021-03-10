@@ -2,7 +2,7 @@
   width: 100%;
   text-align: center;
   overflow: hidden;
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;
 }
 
 .slides {
@@ -20,7 +20,7 @@
 .slides::-webkit-scrollbar-thumb {
   background: #EAEAEA;
   border-radius: 5px;
-  border: 0.3rem black solid;
+  border: 0.4rem black solid;
 }
 
 .slides::-webkit-scrollbar-track {
@@ -32,7 +32,7 @@
   flex-shrink: 0;
   width: 100%;
   height: auto;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   border-radius: 5px;
   background: transparent;
   transform-origin: center center;
