@@ -71,45 +71,6 @@ article {
   }
 }
 
-/* Info Box */
-.info {
-  position: absolute;
-  font-style: italic;
-  line-height: 20px;
-  opacity: 0;
-  color: #000;
-  text-align: left;
-  @include transition(all 1000ms ease-out 600ms);
-
-  h3 {
-    color: #fcfff4;
-    margin: 0 0 5px;
-    font-weight: normal;
-    font-size: 1.5em;
-    font-style: normal;
-  }
-
-  &.top-left {
-    top: 30px;
-    left: 30px;
-  }
-
-  &.top-right {
-    top: 30px;
-    right: 30px;
-  }
-
-  &.bottom-left {
-    bottom: 30px;
-    left: 30px;
-  }
-
-  &.bottom-right {
-    bottom: 30px;
-    right: 30px;
-  }
-}
-
 /* Slider Styling */
 .slider-wrapper {
   width: 100%;
