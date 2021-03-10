@@ -61,12 +61,12 @@ img {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  margin: 1rem; /* 0 0 0.5rem 0; */
+  margin: 0 0 0.5rem 0;
   position: relative;
 }
 
 .slider > a:active {
-  top: 1px;
+  top: 1rem;
 }
 
 .slider > a:focus {
