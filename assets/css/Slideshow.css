@@ -22,7 +22,7 @@
 .slides::-webkit-scrollbar-thumb {
   background: #EAEAEA;
   border-radius: 5px;
-  border: 0.1rem black solid;
+  border: 0.3rem black solid;
 }
 
 .slides::-webkit-scrollbar-track {
