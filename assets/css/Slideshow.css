@@ -1,15 +1,16 @@
 .slideshow {
-  width: 100%;
+  width: 32rem;
+  height: 18rem;
   margin: 0 auto;
   overflow: hidden;
   border: solid 1px white;
 }
 
 .slideshow-container {
-  width: 500%; /*2500px;*/
+  width: 160rem; /*2500px;*/
   font-size: 0;
   transition: 1s ease;
-  height: 100%; /*225px;*/
+  height: 18rem; /*225px;*/
 }
 
 .slideshow-container:hover {
