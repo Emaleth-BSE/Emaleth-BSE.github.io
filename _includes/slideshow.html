@@ -1,51 +1,26 @@
-<div class="wrapper">
-  <input checked type=radio name="slider" id="slide1" />
-  <input type=radio name="slider" id="slide2" />
-  <input type=radio name="slider" id="slide3" />
-  <input type=radio name="slider" id="slide4" />
-  <input type=radio name="slider" id="slide5" />
+<div class="slider">
   
-  <div class="slider-wrapper">
-    <div class=inner>
-      <article>
-        <img src="{{ include.image1 }}">
-      </article>
-  
-      <article>
-        <img src="{{ include.image2 }}">
-      </article>
-  
-      <article>
-        <img src="{{ include.image3 }}">
-      </article>
-  
-      <article>
-        <img src="{{ include.image4 }}">
-      </article>
-  
-      <article>
-        <img src="{{ include.image5 }}">
-      </article>
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+
+  <div class="slides">
+    <div id="slide-1">
+      <img src="{{ include.image1 }}">
     </div>
-      <!-- .inner -->
+    <div id="slide-2">
+      <img src="{{ include.image2 }}">
+    </div>
+    <div id="slide-3">
+      <img src="{{ include.image3 }}">
+    </div>
+    <div id="slide-4">
+      <img src="{{ include.image4 }}">
+    </div>
+    <div id="slide-5">
+      <img src="{{ include.image5 }}">
+    </div>
   </div>
-    <!-- .slider-wrapper -->
-  
-  <div class="slider-prev-next-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-  </div>
-    <!-- .slider-prev-next-control -->
-  
-  <div class="slider-dot-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-  </div>
-    <!-- .slider-dot-control -->
 </div>
