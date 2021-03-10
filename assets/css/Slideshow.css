@@ -1,9 +1,5 @@
-/* {
-  box-sizing: border-box;
-}*/
-
 .slider {
-  width: 100%; /*300px;*/
+  width: 100%;
   text-align: center;
   overflow: hidden;
 }
@@ -14,28 +10,27 @@
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
   -webkit-overflow-scrolling: touch;
-  
-  /*
-  scroll-snap-points-x: repeat(300px);
-  scroll-snap-type: mandatory;
-  */
 }
+
 .slides::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
+
 .slides::-webkit-scrollbar-thumb {
   background: black;
   border-radius: 10px;
 }
+
 .slides::-webkit-scrollbar-track {
   background: transparent;
 }
+
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 100%;/*300px;*/
-  height: auto;/*300px;*/
+  width: 100%;
+  height: auto;
   margin-right: 1rem;
   border-radius: 10px;
   background: #eee;
@@ -48,15 +43,8 @@
   align-items: center;
   font-size: 100px;
 }
-.slides > div:target {
-/*   transform: scale(0.8); */
-}
 
 img {
-/*  object-fit: cover;
-  position: absolute;
-  top: 0;
-  left: 0;*/
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -76,17 +64,13 @@ img {
   margin: 0 0 0.5rem 0;
   position: relative;
 }
+
 .slider > a:active {
   top: 1px;
 }
+
 .slider > a:focus {
   background: #000;
 }
 
-/* Don't need button navigation */
-@supports (scroll-snap-type) {
-  .slider > a {
-    display: none;
-  }
-}
 
