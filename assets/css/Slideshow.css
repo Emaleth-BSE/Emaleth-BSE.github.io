@@ -1,5 +1,5 @@
 .slideshow {
-  width: 100%; /*625px;*/
+  width: 100%;
   margin: 0 auto;
   overflow: hidden;
   border: solid 1px white;
@@ -9,7 +9,7 @@
   width: 500%; /*2500px;*/
   font-size: 0;
   transition: 1s ease;
-  height: 20%; /*225px;*/
+  height: 100%; /*225px;*/
 }
 
 .slideshow-container:hover {
