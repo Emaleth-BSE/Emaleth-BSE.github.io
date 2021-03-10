@@ -13,17 +13,17 @@
 }
 
 .slides::-webkit-scrollbar {
-  top: 1rem;
-  width: 10px;
-  height: 10px;
+  width: 1rem;
 }
 
 .slides::-webkit-scrollbar-thumb {
-  background: black;
+  background: #EAEAEA;
   border-radius: 5px;
+  border: 0.5rem black solid;
 }
 
 .slides::-webkit-scrollbar-track {
+  margin-top: 1rem;
   background: #EAEAEA;
 }
 
